@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SuryaSai
-- 👀 I’m interested in ...Block chain       
-- 🌱 I’m currently learning ...solidity
-- 💞️ I’m looking to collaborate on ...bulding application on block chain
+- 👀 I’m interested in ...Data Engeering     
 - 📫 How to reach me ...saisurya@157@gmail.com
 
 <!---
